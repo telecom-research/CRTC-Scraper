@@ -1,3 +1,3 @@
 # Something
 
-[test]({% post_url 2017-03-01-test %})
+[test](/crtc-scraper/2017-03-01-test.html)
