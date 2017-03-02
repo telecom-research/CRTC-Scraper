@@ -2,10 +2,12 @@ title: CRTC Scraper
 tagline: 
 email: 
 description: 
+baseurl: /CRTC-Scraper/
+url: http://telecom-research.github.io
 
 # Permalinks
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink: /CRTC-Scraper/:title
+permalink: none
 
 # Set encoding to UTF-8
 encoding: utf-8
