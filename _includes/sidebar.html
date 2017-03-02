@@ -1,0 +1,36 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+
+    {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+
+	</nav>
+    <!-- The code below is used for manually entered links  -->
+
+  <div class="sidebar-item">
+  <p><a href="search.html">Search</a></p>
+  <p>Code blog by <a href="http://mediagestalt.com" target="_blank">Sandra Schwab</a></p>
+  	<div class="imgContainer"><a href="https://github.com/mediagestalt" target="_blank"><img src="/assets/logos/git.png" alt="GitHub" style="float:left; width:75%; height:75%;"></a></div>
+   	<div class="imgContainer"><a href="https://www.linkedin.com/in/mediagestalt" target="_blank"><img src="/assets/logos/linkedin.png" alt="LinkedIn" style="float:left; width:75%; height:75%;"></a></div>
+   	<div class="imgContainer"><a href="https://twitter.com/mediagestalt" target="_blank"><img src="/assets/logos/twitter.png" alt="Twitter" style="float:left; width:75%; height:75%;"></a></div>
+   	
+   
+  </div>
+  </div>

@@ -1,0 +1,12 @@
+<table width="400%">
+	<thead>
+		<tr>
+    	{% if page.previous.url %}
+			<th style="text-align: left" width="100"><a class="prev" href="{{page.previous.url}}">«{{page.previous.title}}</a>{% endif %}</th>
+			<td style="text-align: center" width="100"><a href="#">Top of Page</a></td>
+			<td style="text-align: center" width="100"><a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a></td>
+		{% if page.next.url %}
+			<th style="text-align: right" width="100"><a class="next" href="{{page.next.url}}">{{page.next.title}}»</a>{% endif %}</th>
+		</tr>
+	</thead>
+</table>
