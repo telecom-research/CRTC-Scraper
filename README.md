@@ -1,3 +1,3 @@
 # Something
 
-[test](/_posts/2017-03-01-test.md)
+[test]({% post_url2017-03-01-test.md %})
