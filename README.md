@@ -1,3 +1,3 @@
 # Something
 
-[test](/crtc-scraper/2017-03-01-test.html)
+[test](/_posts/2017-03-01-test.html)
