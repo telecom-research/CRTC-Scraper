@@ -1,26 +1,19 @@
----
-layout: default
-title: code:console
----
 
-<div class="column">
-<h2>Tutorials</h2>
-<ul>
-  {% for post in site.categories.tutorials reversed %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-</div>
-
-<div class="column">
-<h2>Resources</h2>
-<ul>
-  {% for post in site.categories.resources reversed %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
-</div>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>test</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+	
+    		
+	</body>
+</html>
