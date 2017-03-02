@@ -2,6 +2,7 @@ title: CRTC Scraper
 tagline: 
 email: 
 description: 
+baseurl: "/CRTC-Scraper" # the subpath of your site, e.g. /blog
 
 # Permalinks
 # Use of `relative_permalinks` ensures post links from the index work properly.
