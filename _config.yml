@@ -3,7 +3,7 @@ tagline:
 email: 
 description: 
 #baseurl: /crtc-scraper
-url: http://telecom-research.github.io/crtc-scraper
+url: https://telecom-research.github.io/crtc-scraper
 # Permalinks
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink: /crtc-scraper/:title.html
