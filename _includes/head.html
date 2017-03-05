@@ -60,17 +60,18 @@
  	 <meta name="twitter:image:src" content="{{ site.url }}/{{ page.og_image }}">
 	{% endif %}
    -->
-  <title>
+ <title>
     {% if page.title == "Home" %}
-      {{ site.title }}
+      {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
-      {{ page.title }}
+      {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
 
   <!-- CSS links -->
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css"/>
-  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/ed.css"/>
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
  
 
   <!-- Icons 
