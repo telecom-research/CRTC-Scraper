@@ -54,11 +54,17 @@ html {
  */
 
 .sidebar {
-  text-align: center;
-  padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #fff;
+  	/*text-align: center;*/
+  	padding: 2rem 1rem;
+  	color: rgba(255,255,255,.5);
+ 	background-color: #E8E8EE;
 }
+
+.sidebar-head {
+	width: 12rem;
+	background-color: #d3d3d3;
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -70,6 +76,15 @@ html {
   }
 }
 
+.sidebar-title {
+	text-align: center;
+	color: #202020;
+}
+
+.sidebar-foot {
+	font-size: .75rem;
+	color: #202020;
+}
 
 /* Sidebar links */
 .sidebar a {
@@ -113,6 +128,7 @@ a.sidebar-nav-item:focus {
     right:  1rem;
     bottom: 4rem;
     left:   1rem;
+    
   }
 }
 
