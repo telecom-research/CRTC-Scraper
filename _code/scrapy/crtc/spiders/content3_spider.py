@@ -5,7 +5,11 @@ class Content3Spider(scrapy.Spider):
 	name = "content3"
 	download_delay = 5
 	allowed_domains = ['www.crtc.gc.ca/eng/archive']
-	start_urls = ['http://www.crtc.gc.ca/eng/archive/2016/2016-491.htm', 'http://www.crtc.gc.ca/eng/archive/1997/DB97-1.htm', 'http://www.crtc.gc.ca/eng/archive/1998/C98-428.HTM', 'http://www.crtc.gc.ca/eng/archive/2016/2016-436.htm']
+	start_urls = ['http://www.crtc.gc.ca/eng/archive/2017/2017-72.htm',
+'http://www.crtc.gc.ca/eng/archive/2017/2017-73.htm',
+'http://www.crtc.gc.ca/eng/archive/2017/2017-74.htm',
+'http://www.crtc.gc.ca/eng/archive/2017/2017-8.htm',
+'http://www.crtc.gc.ca/eng/archive/2017/2017-9.htm']
 	
 	def parse(self, response):
 		sel = scrapy.Selector(response)

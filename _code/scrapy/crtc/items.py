@@ -30,3 +30,7 @@ class MetadataItem(scrapy.Item):
    
 class ContentItem(scrapy.Item):
 	pass
+
+class LinkScraperItem(scrapy.Item):
+	url_from = scrapy.Field()
+	url_to = scrapy.Field()
