@@ -1,4 +1,0 @@
-"date",  "dateCreated",  "dateIssued",  "dateMod",  "docType",  "file" "keywords",  "subject",  "text",  "title"  
-
-
-
