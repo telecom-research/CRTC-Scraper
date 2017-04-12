@@ -201,7 +201,6 @@ class LinkSpider(Spider):
 'http://www.crtc.gc.ca/eng/8045/p2011.htm',
 'http://www.crtc.gc.ca/eng/8045/p2010.htm',
 'http://www.crtc.gc.ca/eng/8045/p2009.htm',
-'http://www.crtc.gc.ca/eng/dno.htm',
 'http://www.crtc.gc.ca/eng/8045/d2017.htm',
 'http://www.crtc.gc.ca/eng/8045/d2016.htm',
 'http://www.crtc.gc.ca/eng/8045/d2015.htm',
