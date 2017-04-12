@@ -1,3 +1,4 @@
 _site/
-.ipynb_checkpoints/
-ignore/
+_code/notebooks/.ipynb_checkpoints/
+_code/scrapy/ignore/
+_code/scrapy/crtc/spiders/ignore/
