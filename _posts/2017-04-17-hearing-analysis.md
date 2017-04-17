@@ -21,7 +21,7 @@ All of the code blocks in a Jupyter Notebook are found in outlined grey boxes, w
 ![Comment](./assets/images/commentPlain.png){:class="img-responsive"}
 ![Test Comment](./assets/images/commentTest.png){:class="img-responsive"}
 
-Text describing the code and showing the results of the code is found everywhere **but** the grey boxes. This is the text to pay the most attention to. The text that shows the results of the code is in what I can only describe as a typewriter style font (like Courier), while the text that describes the code is not. In the photo below, the text on the top shows the result of the code, while the text on the bottom is descriptive text.
+Text describing the code and showing the results of the code is found everywhere **but** the grey boxes. This is the text to pay the most attention to. The text that shows the results of the code is in what I can only describe as a typewriter style font (like Courier), while the text that describes the code is not. In the image below, the text on the top shows the result of the code, while the text on the bottom is descriptive text.
 
 ![Notebook Text Difference](./assets/images/notebookTextDifference.png){:class="img-responsive"}
 
@@ -53,7 +53,7 @@ Another fun frequency finding involves the ten most common bigrams found in the 
 
 And finally, here is a list of the most significant collocated words appearing with `guarantee`. The test used here is the Log Likelihood. The Log-likelihood ratio calculates the size and significance between the observed and expected frequencies of bigrams and assigns a score based on the result, taking into account the overall size of the corpus. The larger the difference between the observed and expected, the higher the score, and the more statistically significant the collocate is. The Log-likelihood ratio is my preferred test for collocates because it does not rely on a normal distribution, and for this reason, it can account for sparse or low frequency bigrams. It does not over-represent low frequency bigrams with inflated scores, as the test is only reporting how much more likely it is that the frequencies are different than they are the same. The drawback to the Log-likelihood ratio is that it cannot be used to compare scores across corpora.
 
-The word most significantly collocated with `guarantee` is `service`, followed by `minimum` and `incentivize`. It is extremely important to note here that **words will appear twice** in the following list. As the ngrams can appear both before and after the word, care must be taken to identify duplicate occurences in the list below and then combine the totals. Therefore, the list below is a sample. Please refer to the notebook for the complete list, and calculate accordingly. 
+The word most significantly collocated with `guarantee` is ~~`service`~~ (that was a typo) `quality`, followed by `minimum` and `incentivize`. It is extremely important to note here that **words will appear twice** in the following list. As the ngrams can appear both before and after the word, care must be taken to identify duplicate occurences in the list below and then combine the totals. Therefore, the list below is a sample. Please refer to the notebook for the complete list, and calculate accordingly. 
 
 ![Log Likelihood Collocates with guarantee](./assets/images/guaranteeCollocatesLL.png){:class="img-responsive"}
 
