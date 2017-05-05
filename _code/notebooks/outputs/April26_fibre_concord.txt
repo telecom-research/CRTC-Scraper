@@ -1,0 +1,64 @@
+Displaying 63 of 63 matches:
+ected up the local hospitals through fibre connections and allowed them to have
+edical excellence through additional fibre connections. 16115 So through obtain
+nsion of the network, because we put fibre to a specific hospital, that gave us
+g you upgrade. 16162 We believe that fibre is the end game. We're not there. We
+there. We watch cable operators push fibre deeper to nodes. The copper-based ne
+ industry, everybody's trying to get fibre to their tower, same with mobility a
+lity as well. 16163 So we're pushing fibre and fibre deeper into the network. H
+ll. 16163 So we're pushing fibre and fibre deeper into the network. Having buil
+ into the network. Having built that fibre networks, our experience is once you
+ no question every customer who gets fibre to their home is a lucky customer. B
+a lot of customers that are far from fibre and their needs are not being met at
+SSIONER MOLNAR: So you are requiring fibre to every home? 16184 MR. PETRUK: I t
+ MOLNAR: And if everybody could have fibre or even a DSL connection, great, but
+folks, somehow you're extending your fibre to those folks, they are likely to b
+rst step is not necessarily a direct fibre to the home connection. We’re extend
+a step to ultimately get to a direct fibre connection. So with technologies lik
+hard, when you, as Angela said, take fibre deeper. It might not be right to the
+evel of service, whether they have a fibre connection or a copper-based solutio
+ hope you continue to drive out your fibre as far as you can. 16205 One of the 
+r networks, we see and we pushed out fibre to service small and smaller cluster
+omething. He probably wouldn’t bring fibre to my home because I’m really remote
+ut maybe there would be, you know, a fibre cabinet, fibre to the node system so
+would be, you know, a fibre cabinet, fibre to the node system somewhere. And ju
+skTel yesterday that they had done a fibre swap. If you go back to the Eastern 
+any. So the power companies have got fibre all over the place. 16223 And I’m wo
+d about the far north, we got to get fibre to the community in the far north. W
+eas that we service, there’s already fibre to some part of that town on somebod
+n rural areas. The reason is simple; fibre optic networks are expensive to buil
+riately priced wireless backhaul and fibre optic Points of Presence. 16402 Spec
+t of view. It's impossible to deploy fibre optics everywhere; it would be too c
+pliers are certainly known. 16516 If fibre goes around you just take a walk and
+, for instance, power companies with fibre along their main transmission lines,
+lieve you’re right, there’s a lot of fibre in the ground that is un-thought of 
+ere only to find out that that was a fibre regeneration pop. 16521 COMMISSIONER
+price, if you think there’s only one fibre running into a community when in fac
+ain, we tend to think of looking for fibre from telecom companies. We haven’t n
+ly thought what are other sources of fibre out there. 16524 COMMISSIONER MacDON
+t phase the backhaul. So a number of fibre pops throughout eastern Ontario were
+s at which anyone could access those fibre pops. 16526 In that situation, we we
+e to economically get access to that fibre and to internet transit. It also imp
+and underserved. If they’ve put in a fibre pop in rural Ontario they’d like to 
+e don’t know. You know, there may be fibre there in places -- or with companies
+re a little bit about on the map the fibre accessibility or availability. I hav
+the government. But they had all the fibre links mapped out from the telecoms a
+s and all the utilities and also the fibre owned by the government. 16535 So th
+es, I want everyone to know where my fibre is because how can they buy it if th
+I don’t want anyone to know where my fibre is running because then someone may 
+ing because then someone may cut the fibre and may choose to cut it going under
+a concern that they had from all the fibre providers or owners. So I don’t have
+g and managing a regional high-speed fibre optic network throughout the southea
+f we were bringing service -- if our fibre network went by a small rural commun
+ nothing. It’s that drastic. And the fibre cable’s going right by these communi
+every fibre. We’re talking about one fibre maybe out of a bundle of 48. And we,
+ble multi-gigabit speeds over hybrid fibre coax. High-throughput satellites, ne
+ple, we built a tremendous amount of fibre in the Kootenay's -- to the previous
+ year for their last mile in lieu of fibre to the home. 17497 So we think any o
+ut it still needs to be connected to fibre in Cranbrook in order to get somewhe
+rimary solution is transport and the fibre that will connect the wired, whether
+only basis. We’ve looked at building fibre to Flin Flon. It’s $20 million to bu
+Flin Flon. It’s $20 million to build fibre to Flin Flon, and we don’t really pa
+y if you could figure out how to get fibre there. --- (LAUGHTER) 17535 MR. MEHR
+ voice or wireless, and there’s also fibre builds. 17599 So I think the questio
+ the wireline area and you build the fibre and you go the last mile in place, y
