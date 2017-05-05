@@ -14,7 +14,7 @@ This analysis will look at the following words:
 
 #### BROADBAND
 
-The word `broadband` and it’s variations appear with the greatest frequency in the transcript dated April 11, 2015.
+The word `broadband` and its variations appear with the greatest frequency in the transcript dated April 11, 2015.
 
 ![Frequency of the word ‘broadband’](./assets/images/broadbandFrequency.png){:class="img-responsive"}
 
@@ -32,7 +32,7 @@ The word most significantly collocated with `broadband` is `national`, followed 
 
 #### FIBRE
 
-The word `fibre` and it’s variations appear with the greatest frequency in the transcript dated April 20, 2015.
+The word `fibre` and its variations appear with the greatest frequency in the transcript dated April 20, 2015.
 
 ![Frequency of the word ‘fibre’](./assets/images/fibreFrequency.png){:class="img-responsive"}
 
