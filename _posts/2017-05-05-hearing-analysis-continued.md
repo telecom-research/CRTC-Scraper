@@ -44,7 +44,7 @@ After removing stopwords and lemmatizing the text, `fibre` occurs a total of `47
 
 Here is a list of the most significant collocated words appearing with `fibre` using the Log-likelihood ratio.
 
-The word most significantly collocated with `fibre` is `optic`, followed by `premise` and `build`. Therefore, the list below is a sample. Please refer to the notebook for the complete list, and calculate accordingly. 
+The word most significantly collocated with `fibre` is `optic`, followed by `premise` and `build`. The list below is a sample. Please refer to the notebook for the complete list, and calculate accordingly. 
 
 ![Log Likelihood Collocates with fibre](./assets/images/fibreCollocatesLL.png){:class="img-responsive"}
 
