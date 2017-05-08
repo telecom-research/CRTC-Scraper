@@ -16,11 +16,11 @@ This analysis will look at the following words:
 
 #### BROADBAND
 
-The word `broadband` and its variations appear with the greatest frequency in the transcript dated April 11, 2015.
+The word `broadband` and its variations appear with the greatest frequency in the transcript dated April 11.
 
 ![Frequency of the word ‘broadband’](./assets/images/broadbandFrequency.png){:class="img-responsive"}
 
-Here is a KWIC concordance from April 11, 2015 that shows its use. [View the complete file](https://github.com/telecom-research/crtc-scraper/blob/master/_code/notebooks/outputs/April11_broadband_concord.txt).
+Here is a KWIC concordance from April 11 that shows its use. [View the complete file](https://github.com/telecom-research/crtc-scraper/blob/master/_code/notebooks/outputs/April11_broadband_concord.txt).
 
 ![Concordance for ‘broadband’](./assets/images/broadbandConcordance.png){:class="img-responsive"}
 
@@ -34,11 +34,11 @@ The word most significantly collocated with `broadband` is `national`, followed 
 
 #### FIBRE
 
-The word `fibre` and its variations appear with the greatest frequency in the transcript dated April 20, 2015.
+The word `fibre` and its variations appear with the greatest frequency in the transcript dated April 20.
 
 ![Frequency of the word ‘fibre’](./assets/images/fibreFrequency.png){:class="img-responsive"}
 
-`Fibre` is by far the most common of these occurrences, with ‘fibres’ occurring only four times in total throughout all of the transcripts. Here is a KWIC concordance from April 20, 2015 that shows its use. [View the complete file](https://github.com/telecom-research/crtc-scraper/blob/master/_code/notebooks/outputs/April20_fibre_concord.txt).
+`Fibre` is by far the most common of these occurrences, with ‘fibres’ occurring only four times in total throughout all of the transcripts. Here is a KWIC concordance from April 20 that shows its use. [View the complete file](https://github.com/telecom-research/crtc-scraper/blob/master/_code/notebooks/outputs/April20_fibre_concord.txt).
 
 ![Concordance for ‘fibre’](./assets/images/fibreConcordance.png){:class="img-responsive"}
 
@@ -52,11 +52,11 @@ The word most significantly collocated with `fibre` is `optic`, followed by `pre
 
 #### SERVICE
 
-The word `service` and its variations appear with the greatest frequency in the transcript dated April 18, 2015.
+The word `service` and its variations appear with the greatest frequency in the transcript dated April 18.
 
 ![Frequency of the word ‘service’](./assets/images/serviceFrequency.png){:class="img-responsive"}
 
-`Service` is the more common of these occurrences, though ‘services’ occurs many times throughout the transcripts as well. Here is a KWIC concordance from April 18, 2015 that shows the use of `service`. [View the complete file](https://github.com/telecom-research/crtc-scraper/blob/master/_code/notebooks/outputs/April18_service_concord.txt).
+`Service` is the more common of these occurrences, though ‘services’ occurs many times throughout the transcripts as well. Here is a KWIC concordance from April 18 that shows the use of `service`. [View the complete file](https://github.com/telecom-research/crtc-scraper/blob/master/_code/notebooks/outputs/April18_service_concord.txt).
 
 ![Concordance for ‘service’](./assets/images/serviceConcordance.png){:class="img-responsive"}
 
