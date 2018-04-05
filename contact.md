@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-This page has contact information.
+sandra.sawchuk@msvu.ca
